@@ -44,7 +44,6 @@
 <muleVersion>4.2.2</muleVersion>
 
 </cloudHubDeployment>
-				<classifier>mule-application</classifier>
                 </configuration>
 			</plugin>
 		</plugins>
